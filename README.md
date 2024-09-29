@@ -23,11 +23,11 @@ The **Secure Password Generator** is a Python-based tool designed to create stro
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/nivedhapm/Secure-password-Generator.git
+    git clone https://github.com/nivedhapm/Secure-password-generator.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Secure-password-Generator
+    cd Secure-password-generator
     ```
 3. Run the Python script:
     ```bash
